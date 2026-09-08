@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
 title: VinLua
-description: My GitHub Page!
+description: Aprendendo programação e tentando ajudar
+theme: jekyll-theme-minimal
+
+header_pages:
+  - index.md
+
+plugins:
+  - jekyll-seo-tag
