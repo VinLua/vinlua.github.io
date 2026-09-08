@@ -38,7 +38,7 @@ title: VinLua
       Indie City
     </a>
 
-    <a href="https://osu.ppy.sh" target="_blank" class="btn btn-osu">
+    <a href="https://osu.ppy.sh/users/39973910" target="_blank" class="btn btn-osu">
       <svg viewBox="0 0 24 24" fill="currentColor">
         <circle cx="12" cy="12" r="10"/>
         <text x="12" y="16" text-anchor="middle" font-size="10" fill="white" font-weight="bold">o!</text>
