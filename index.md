@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VinLua
+title: Vinlua
 ---
 
 <link rel="stylesheet" href="/assets/css/style.css">
@@ -26,7 +26,9 @@ title: VinLua
 
 <!-- Card principal -->
 <div class="card">
-  <div class="avatar">V</div>
+  <div class="avatar">
+    <img src="/assets/images/avatar.png" alt="VinLua">
+  </div>
   <h1 class="name">VinLua</h1>
   <p class="bio">Aprendendo programação e tentando ajudar</p>
 
